@@ -1,4 +1,4 @@
 # GItdemo
 this is my first Github Page.
 <br>
-Name = MD Danish Raza Khan
+Author = 'MD Danish Raza Khan'
